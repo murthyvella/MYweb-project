@@ -826,8 +826,9 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2023</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
+            <h1>Style That Speaks for You</h1>
+            <p>From fashion-forward outfits to must-have accessories, 
+discover what’s trending now at Murthyfasions.</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
